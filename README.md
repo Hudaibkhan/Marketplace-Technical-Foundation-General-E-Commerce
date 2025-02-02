@@ -82,5 +82,5 @@
 - **Desktop Performance**: 93%.
 - **Mobile Performance**: 73%.
 
-##Conclusion
+## Conclusion
 This README provides a concise overview of the technical foundation and development process for a general e-commerce marketplace. It covers the planning, implementation, testing, and deployment phases, ensuring a smooth and efficient development journey.
